@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+#main{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: italic;
+  color: white;
+  font-size: 65px;
+  
+}
+.motivation{
+    border: 5px solid white;
+    height: 325px;
+    width:650px;
+}
+.poster{
+    margin-top: 25px;
+}
+p{
+    color: white;
+    font-size: 15px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
